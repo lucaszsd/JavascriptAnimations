@@ -1,0 +1,14 @@
+body{
+	background-color: #084C61;
+}
+
+canvas{
+	border: 2pt dashed #FF6F59;
+	border-radius: 5pt;
+
+
+	margin: auto;
+	display: block;
+	margin-top: 150pt;
+
+}
